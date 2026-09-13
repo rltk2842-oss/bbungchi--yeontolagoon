@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">연토리뿡치 생일 축하 배너</title>
+  <desc id="desc">케이크와 색종이 장식이 있는 보라색 생일 축하 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0f7"/><stop offset=".52" stop-color="#eee9ff"/><stop offset="1" stop-color="#dff7ff"/></linearGradient>
+    <linearGradient id="cake" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff9dc8"/><stop offset="1" stop-color="#ff6fae"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#433878" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
+  <g opacity=".9">
+    <circle cx="65" cy="68" r="10" fill="#ff70a6"/><circle cx="170" cy="42" r="7" fill="#635bff"/><circle cx="1080" cy="75" r="11" fill="#48cae4"/><circle cx="1140" cy="180" r="7" fill="#ffbf69"/>
+    <path d="M105 145l16 30-34 2zM1015 40l18 29-34 4zM1110 310l19 31-36 2z" fill="#ffbf69"/>
+    <path d="M205 330l20-18m-10 28l20-18M995 320l23-20m-11 31l23-20" stroke="#635bff" stroke-width="8" stroke-linecap="round"/>
+    <path d="M45 250q35-35 70 0t70 0" fill="none" stroke="#48cae4" stroke-width="8"/>
+  </g>
+  <g transform="translate(125 91)" filter="url(#shadow)">
+    <ellipse cx="165" cy="246" rx="150" ry="24" fill="#635bff" opacity=".14"/>
+    <rect x="48" y="105" width="235" height="135" rx="25" fill="url(#cake)"/>
+    <path d="M48 125c30 30 45-12 76 13 27 22 45-26 76-2 28 21 51-23 83-4v-27H48z" fill="#fff"/>
+    <rect x="153" y="38" width="25" height="76" rx="9" fill="#7667e8"/>
+    <path d="M165 35c-28-24 7-44 1-61 30 22 33 48-1 61z" fill="#ffb703"/>
+    <circle cx="107" cy="176" r="12" fill="#fff" opacity=".75"/><circle cx="220" cy="188" r="12" fill="#fff" opacity=".75"/>
+  </g>
+  <g transform="translate(480 105)">
+    <text x="0" y="38" fill="#635bff" font-family="sans-serif" font-size="23" font-weight="800" letter-spacing="5">HAPPY BBUNGCHI DAY</text>
+    <text x="0" y="115" fill="#17152b" font-family="sans-serif" font-size="58" font-weight="900">연토리뿡치</text>
+    <text x="0" y="181" fill="#17152b" font-family="sans-serif" font-size="58" font-weight="900">생일 축하해!</text>
+    <text x="2" y="228" fill="#6b6680" font-family="sans-serif" font-size="21" font-weight="600">오늘의 주인공을 위한 특별한 콘텐츠 퀴즈</text>
+  </g>
+</svg>

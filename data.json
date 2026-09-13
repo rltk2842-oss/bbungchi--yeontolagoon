@@ -7,37 +7,45 @@
     "date": "2025-11-29",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/179290931",
-    "thumbnail": "images/01.jpg"
+    "thumbnail": "images/01.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 2,
     "name": "산나비 DLC",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2025-11-27",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/179085591",
-    "thumbnail": "images/02.jpg"
+    "thumbnail": "images/02.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 3,
     "name": "스포일러가 너무 심한 RPG 2",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2025-11-25",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/178961933",
-    "thumbnail": "images/03.jpg"
+    "thumbnail": "images/03.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 4,
     "name": "언더테일",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2025-11-14",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/177912345",
-    "thumbnail": "images/04.jpg"
+    "thumbnail": "images/04.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 5,
@@ -47,7 +55,9 @@
     "date": "2025-11-12",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/177689283",
-    "thumbnail": "images/05.jpg"
+    "thumbnail": "images/05.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 6,
@@ -57,7 +67,9 @@
     "date": "2025-12-27",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/181950067",
-    "thumbnail": "images/06.jpg"
+    "thumbnail": "images/06.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 7,
@@ -67,7 +79,9 @@
     "date": "2025-12-14",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/180707619",
-    "thumbnail": "images/07.jpg"
+    "thumbnail": "images/07.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 8,
@@ -77,7 +91,9 @@
     "date": "2025-12-23",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/181553861",
-    "thumbnail": "images/08.jpg"
+    "thumbnail": "images/08.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 9,
@@ -87,7 +103,9 @@
     "date": "2025-12-17",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/181021183",
-    "thumbnail": "images/09.jpg"
+    "thumbnail": "images/09.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 10,
@@ -97,17 +115,21 @@
     "date": "2025-12-11",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/180466149",
-    "thumbnail": "images/10.jpg"
+    "thumbnail": "images/10.jpg",
+    "adult": "O",
+    "guple": "X"
   },
   {
     "id": 11,
     "name": "Cairn 등반",
     "category": "게임",
-    "type": "협동",
+    "type": "종합",
     "date": "2026-01-31",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/185385817",
-    "thumbnail": "images/11.jpg"
+    "thumbnail": "images/11.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 12,
@@ -117,17 +139,21 @@
     "date": "2026-01-29",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/185264745",
-    "thumbnail": "images/12.jpg"
+    "thumbnail": "images/12.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 13,
     "name": "파스파트2",
     "category": "게임",
-    "type": "시뮬레이션",
+    "type": "종합",
     "date": "2026-01-25",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/184893207",
-    "thumbnail": "images/13.jpg"
+    "thumbnail": "images/13.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 14,
@@ -137,7 +163,9 @@
     "date": "2026-01-23",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/184679953?change_second=11649",
-    "thumbnail": "images/14.jpg"
+    "thumbnail": "images/14.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 15,
@@ -147,7 +175,9 @@
     "date": "2026-01-14",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/183795783",
-    "thumbnail": "images/15.jpg"
+    "thumbnail": "images/15.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 16,
@@ -157,7 +187,9 @@
     "date": "2026-02-22",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/187692059",
-    "thumbnail": "images/16.jpg"
+    "thumbnail": "images/16.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 17,
@@ -167,7 +199,9 @@
     "date": "2026-02-21",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/187596457",
-    "thumbnail": "images/17.jpg"
+    "thumbnail": "images/17.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 18,
@@ -177,7 +211,9 @@
     "date": "2026-02-20",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/187506659",
-    "thumbnail": "images/18.jpg"
+    "thumbnail": "images/18.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 19,
@@ -187,17 +223,21 @@
     "date": "2026-02-18",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/187290631",
-    "thumbnail": "images/19.jpg"
+    "thumbnail": "images/19.jpg",
+    "adult": "O",
+    "guple": "X"
   },
   {
     "id": 20,
     "name": "오버워치",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2026-02-13",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/186747533",
-    "thumbnail": "images/20.jpg"
+    "thumbnail": "images/20.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 21,
@@ -207,7 +247,9 @@
     "date": "2026-03-31",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/191366999",
-    "thumbnail": "images/21.jpg"
+    "thumbnail": "images/21.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 22,
@@ -217,7 +259,9 @@
     "date": "2026-03-29",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/191140463",
-    "thumbnail": "images/22.jpg"
+    "thumbnail": "images/22.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 23,
@@ -227,7 +271,9 @@
     "date": "2026-03-26",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/190906769",
-    "thumbnail": "images/23.jpg"
+    "thumbnail": "images/23.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 24,
@@ -237,7 +283,9 @@
     "date": "2026-03-20",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/190308221",
-    "thumbnail": "images/24.jpg"
+    "thumbnail": "images/24.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 25,
@@ -247,7 +295,9 @@
     "date": "2026-03-13",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/189566617",
-    "thumbnail": "images/25.jpg"
+    "thumbnail": "images/25.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 26,
@@ -257,7 +307,9 @@
     "date": "2026-04-30",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/194300915",
-    "thumbnail": "images/26.jpg"
+    "thumbnail": "images/26.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 27,
@@ -267,17 +319,21 @@
     "date": "2026-04-27",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/194052759",
-    "thumbnail": "images/27.jpg"
+    "thumbnail": "images/27.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 28,
     "name": "용과같이 극1",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2026-04-26",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/193976813",
-    "thumbnail": "images/28.jpg"
+    "thumbnail": "images/28.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 29,
@@ -287,7 +343,9 @@
     "date": "2026-04-22",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/193541703",
-    "thumbnail": "images/29.jpg"
+    "thumbnail": "images/29.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 30,
@@ -297,7 +355,9 @@
     "date": "2026-04-19",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/193273601",
-    "thumbnail": "images/30.jpg"
+    "thumbnail": "images/30.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 31,
@@ -307,7 +367,9 @@
     "date": "2026-05-27",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/196960567",
-    "thumbnail": "images/31.jpg"
+    "thumbnail": "images/31.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 32,
@@ -317,7 +379,9 @@
     "date": "2026-05-23",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/196597675",
-    "thumbnail": "images/32.jpg"
+    "thumbnail": "images/32.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 33,
@@ -327,7 +391,9 @@
     "date": "2026-05-14",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/195701731",
-    "thumbnail": "images/33.jpg"
+    "thumbnail": "images/33.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 34,
@@ -337,7 +403,9 @@
     "date": "2026-05-13",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/195576267",
-    "thumbnail": "images/34.jpg"
+    "thumbnail": "images/34.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 35,
@@ -347,7 +415,9 @@
     "date": "2026-05-08",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/195047049",
-    "thumbnail": "images/35.jpg"
+    "thumbnail": "images/35.jpg",
+    "adult": "X",
+    "guple": "O"
   },
   {
     "id": 36,
@@ -357,7 +427,9 @@
     "date": "2026-06-29",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/200052283",
-    "thumbnail": "images/36.jpg"
+    "thumbnail": "images/36.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 37,
@@ -367,7 +439,9 @@
     "date": "2026-06-25",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/199701449?change_second=27186",
-    "thumbnail": "images/37.jpg"
+    "thumbnail": "images/37.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 38,
@@ -377,7 +451,9 @@
     "date": "2026-06-22",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/199398433",
-    "thumbnail": "images/38.jpg"
+    "thumbnail": "images/38.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 39,
@@ -387,17 +463,21 @@
     "date": "2026-06-19",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/199141241",
-    "thumbnail": "images/39.jpg"
+    "thumbnail": "images/39.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 40,
-    "name": "주루마블",
+    "name": "주루마블 검수",
     "category": "특집",
-    "type": "종합",
+    "type": "소통",
     "date": "2026-06-14",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/198696557",
-    "thumbnail": "images/40.jpg"
+    "thumbnail": "images/40.jpg",
+    "adult": "O",
+    "guple": "O"
   },
   {
     "id": 41,
@@ -407,27 +487,33 @@
     "date": "2026-07-31",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/202995237",
-    "thumbnail": "images/41.jpg"
+    "thumbnail": "images/41.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 42,
     "name": "왁업",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2026-07-29",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/202859519",
-    "thumbnail": "images/42.jpg"
+    "thumbnail": "images/42.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 43,
     "name": "레이튼 교수와 이상한 마을",
     "category": "게임",
-    "type": "종겜",
+    "type": "종합",
     "date": "2026-07-27",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/202648023",
-    "thumbnail": "images/43.jpg"
+    "thumbnail": "images/43.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 44,
@@ -437,7 +523,9 @@
     "date": "2026-07-26",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/202564745",
-    "thumbnail": "images/44.jpg"
+    "thumbnail": "images/44.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 45,
@@ -447,7 +535,9 @@
     "date": "2026-07-18",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/201870559",
-    "thumbnail": "images/45.jpg"
+    "thumbnail": "images/45.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 46,
@@ -457,7 +547,9 @@
     "date": "2026-08-30",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/205761459",
-    "thumbnail": "images/46.jpg"
+    "thumbnail": "images/46.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 47,
@@ -467,7 +559,9 @@
     "date": "2026-08-29",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/205705457",
-    "thumbnail": "images/47.jpg"
+    "thumbnail": "images/47.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 48,
@@ -477,7 +571,9 @@
     "date": "2026-08-25",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/205333093",
-    "thumbnail": "images/48.jpg"
+    "thumbnail": "images/48.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 49,
@@ -487,7 +583,9 @@
     "date": "2026-08-22",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/205056043",
-    "thumbnail": "images/49.jpg"
+    "thumbnail": "images/49.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 50,
@@ -497,7 +595,9 @@
     "date": "2026-08-18",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/204704083",
-    "thumbnail": "images/50.jpg"
+    "thumbnail": "images/50.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 51,
@@ -507,17 +607,21 @@
     "date": "2026-09-10",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/206766899",
-    "thumbnail": "images/51.jpg"
+    "thumbnail": "images/51.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 52,
     "name": "이은도의 저주",
     "category": "게임",
     "type": "공포",
-  "date": "2026-09-07",
+    "date": "2026-09-07",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/206510869",
-    "thumbnail": "images/52.jpg"
+    "thumbnail": "images/52.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 53,
@@ -527,17 +631,21 @@
     "date": "2026-09-06",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/206441299",
-    "thumbnail": "images/53.jpg"
+    "thumbnail": "images/53.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 54,
     "name": "1:1 롤 맞짱",
     "category": "게임",
-    "type": "전략·대전",
+    "type": "시참",
     "date": "2026-09-05",
     "format": "합방",
     "url": "https://vod.sooplive.com/player/206312795",
-    "thumbnail": "images/54.jpg"
+    "thumbnail": "images/54.jpg",
+    "adult": "X",
+    "guple": "X"
   },
   {
     "id": 55,
@@ -547,6 +655,20 @@
     "date": "2026-09-04",
     "format": "단독",
     "url": "https://vod.sooplive.com/player/206233515",
-    "thumbnail": "images/55.jpg"
+    "thumbnail": "images/55.jpg",
+    "adult": "X",
+    "guple": "X"
+  },
+  {
+    "id": 56,
+    "name": "겟앰프트",
+    "category": "종합",
+    "type": "시참",
+    "date": "2026-07-17",
+    "format": "단독",
+    "url": "https://vod.sooplive.com/player/201668517?change_second=2986",
+    "thumbnail": "images/56.jpg",
+    "adult": "X",
+    "guple": "X"
   }
 ]
